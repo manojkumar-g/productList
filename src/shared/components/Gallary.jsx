@@ -5,6 +5,7 @@ import {deleteItem, showAlert} from '../actions'
  class Gallary extends React.Component {
   constructor(props) {
     super(props);
+    //Hello
     this.state = {
 
     }
